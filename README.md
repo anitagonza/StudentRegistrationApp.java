@@ -30,4 +30,4 @@ retrieved or displayed by the application.
 
 ## Author
 Anita Gonza
- clone repo  https://github.com/anitagonza/StudentRegistrationApp.java.git
+     https://github.com/anitagonza/StudentRegistrationApp.java.git
